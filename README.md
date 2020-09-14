@@ -1,5 +1,5 @@
 Hi there :laughing:	
 - I'm just hanging around here.
 
-<img src="tenor.gif">
+<img src="https://raw.githubusercontent.com/ufukcam/ufukcam/master/tenor.gif">
 
