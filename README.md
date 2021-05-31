@@ -1,7 +1,8 @@
 ## Hi there 👋, I'm just hanging around here.
 
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/ufukcam/ufukcam/master/tenor.gif" width="30%" height="30%">
+  </p>
 
 ## Connect with me:
 
