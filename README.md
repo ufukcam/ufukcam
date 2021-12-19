@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A SysAdmin and developer from Turkey.
+  A SysAdmin and developer.
 </p>
 
 
