@@ -16,7 +16,7 @@
   <a href="https://medium.com/@ufukcam">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/ufukcam">
+  <a href="https://instagram.com/bilpptech">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
