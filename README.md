@@ -1,7 +1,3 @@
-## Hi there 👋, I'm just hanging around here.
-
-
-
 <h1 align='center'>
   Hi there 👋 I'm Ufuk 👨‍💻
 </h1>
