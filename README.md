@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A SysAdmin and developer also StartUp enthusiast
+  StartUp enthusiast
 </p>
 
 
