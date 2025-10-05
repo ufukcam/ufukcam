@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ufuk Çam
 
-🚀 CEO & Startup Founder | 🇪🇪 Estonia & 🇹🇷 Turkey  
+🚀 Startup Founder | 🇪🇪 Estonia & 🇹🇷 Turkey  
 Tech entrepreneur with 10+ years in SaaS, IoT, and Fintech.  
 Founder of 10+ startups — building scalable digital solutions across Europe.
 
